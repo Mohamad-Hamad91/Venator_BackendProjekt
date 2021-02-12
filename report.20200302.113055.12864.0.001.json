@@ -1,0 +1,153 @@
+
+{
+  "header": {
+    "reportVersion": 1,
+    "event": "Allocation failed - JavaScript heap out of memory",
+    "trigger": "FatalError",
+    "filename": "report.20200302.113055.12864.0.001.json",
+    "dumpEventTime": "2020-03-02T11:30:55Z",
+    "dumpEventTimeStamp": "1583145055619",
+    "processId": 12864,
+    "cwd": "C:\\Users\\Start\\Documents\\expressProjekt",
+    "commandLine": [
+      "node",
+      "./bin/www",
+      "server.js"
+    ],
+    "nodejsVersion": "v12.14.0",
+    "wordSize": 64,
+    "arch": "x64",
+    "platform": "win32",
+    "componentVersions": {
+      "node": "12.14.0",
+      "v8": "7.7.299.13-node.16",
+      "uv": "1.33.1",
+      "zlib": "1.2.11",
+      "brotli": "1.0.7",
+      "ares": "1.15.0",
+      "modules": "72",
+      "nghttp2": "1.39.2",
+      "napi": "5",
+      "llhttp": "1.1.4",
+      "http_parser": "2.8.0",
+      "openssl": "1.1.1d",
+      "cldr": "35.1",
+      "icu": "64.2",
+      "tz": "2019c",
+      "unicode": "12.1"
+    },
+    "release": {
+      "name": "node",
+      "lts": "Erbium",
+      "headersUrl": "https://nodejs.org/download/release/v12.14.0/node-v12.14.0-headers.tar.gz",
+      "sourceUrl": "https://nodejs.org/download/release/v12.14.0/node-v12.14.0.tar.gz",
+      "libUrl": "https://nodejs.org/download/release/v12.14.0/win-x64/node.lib"
+    },
+    "osName": "Windows_NT",
+    "osRelease": "10.0.18362",
+    "osVersion": "Windows 10 Pro",
+    "osMachine": "x86_64",
+    "cpus": [
+      {
+        "model": "Intel(R) Core(TM) i5-7600T CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 1878125,
+        "nice": 0,
+        "sys": 2453656,
+        "idle": 57487453,
+        "irq": 319281
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-7600T CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 2386078,
+        "nice": 0,
+        "sys": 2779078,
+        "idle": 56653859,
+        "irq": 72703
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-7600T CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 2126921,
+        "nice": 0,
+        "sys": 2331171,
+        "idle": 57360921,
+        "irq": 47968
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-7600T CPU @ 2.80GHz",
+        "speed": 2808,
+        "user": 2147906,
+        "nice": 0,
+        "sys": 2815078,
+        "idle": 56856031,
+        "irq": 44421
+      }
+    ],
+    "networkInterfaces": [
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "38:ba:f8:d9:ac:6a",
+        "address": "2a02:908:1086:9de0::df11",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "38:ba:f8:d9:ac:6a",
+        "address": "2a02:908:1086:9de0:186c:e3fb:98f5:747",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "38:ba:f8:d9:ac:6a",
+        "address": "2a02:908:1086:9de0:5177:b87b:89d9:a38c",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "38:ba:f8:d9:ac:6a",
+        "address": "fe80::186c:e3fb:98f5:747",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 18
+      },
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "38:ba:f8:d9:ac:6a",
+        "address": "192.168.0.75",
+        "netmask": "255.255.255.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "family": "IPv4"
+      }
+    ],
+    "host": "W10-090719A"
+  },
+  "javascriptSta
